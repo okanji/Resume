@@ -1,6 +1,6 @@
 # Oamar Kanji - Full Stack Developer
 
-**Home: Kamloops, BC / Kenya | Email: oamarkanji@gmail.com | Github: okanji**
+**Home: Vancouver, BC | Email: oamarkanji@gmail.com | Github: okanji**
 
 - Technical Lead and Senior Full-Stack Developer with a proven track record leading development teams of applications at scale.
 - Led application development at the Platform Development team for the Ministry of Citizens services of British Columbia, Canada.
