@@ -4,21 +4,22 @@
 
 - Technical Lead and Senior Full-Stack Developer with a proven track record leading development teams of applications at scale.
 - Led application development at the Platform Development team for the Ministry of Citizens services of British Columbia, Canada.
-- Experienced in hiring technical positions, application architecture and team management.
-- Primarily work with Next.js
+- Currently focused on building no code form building tools and AI user feedback analytics.
 
 ### Userforms | 2025 | Technical Lead
 
-(Personal project) Developed an advanced drag-and-drop form builder integrated with AI, capable of generating form components based on user prompts. This project provided a deep dive into the mechanics of UI generation with language models and retrieval-augmented generation.
+(Personal project) Developed an advanced no code drag-and-drop form builder integrated with AI, capable of generating form components based on user prompts and performing advanced AI analytics and topic clasification of user feedback. This project provided a deep dive into the mechanics of UI generation with large language models and retrieval-augmented generation (RAG).
 
+- Integrated the **_Next.js AI SDK_** with **_OpenAI's function-calling capabilities_**, creating structured outputs for form elements. Crafted specific functions enabling the AI to dynamically generate form components based on user prompts, effectively adding "AI superpowers" to the app.
+- Develpped an LLM based hierarchical topic modelling workflow (unsupervised) to classify natually occoring topics in user feedback and summerise them. This workflow uses **_Upstash Worflow_** to handle long running AI.
+- Implemented Vector Search with OpenAi Embeddings.
 - Developed a drag and drop form builder using **React with _Next.js_** and **_Shadcn's component library_**.
 - Overcame complexities of **_react-dnd-kit_** for drag-and-drop functionality by adopting a first-principles approach, mastering collision strategies, draggable overlays, and custom functions for element management. Authored unique collision detection and sorting mechanisms to handle form elements seamlessly.
-- Integrated the **_Next.js AI SDK_** with **_OpenAI's function-calling capabilities_**, creating structured outputs for form elements. Crafted specific functions enabling the AI to dynamically generate form components based on user prompts, effectively adding "AI superpowers" to the app.
 - Used **_Postgresql_** as the database to store the form data and **_Redis Upstash_** for caching and unstructured data.
 
 ### Meetupkit Interactive Maps | 2024 | Tehcnical Lead
 
-(Personal project) Led the technical development for a startup specializing in interactive maps and event ticketing. Responsible for determining the technology stack and building the Minimum Viable Product (MVP) alongside a designer.
+Led the technical development for a startup specializing in interactive maps and event ticketing. Responsible for determining the technology stack and building the Minimum Viable Product (MVP) alongside a designer.
 
 - Built an interactive map with zoom, pan, drag and interactive elements that trigger events in the app when clicked and hovered.
 - Developed with **_Next.js_** and **Neon _PostgreSQL_**.
